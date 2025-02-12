@@ -1,0 +1,9 @@
+Projenin Adı: Cep Telefonu Sınıf Yoklaması
+
+Projeyi Yapanlar: 
+-Barış Şavk  360122044
+-Ümit Altınöz 36012055
+
+Açıklama: Rar arşivinin içindeki app-release.apk dosyası android telefona yüklenip kurulur. 
+Ayarlardan uygulamanın izin ayarlarına girilerek kameraya izin verilir.
+
